@@ -16,6 +16,12 @@ Uber frequently experiences service shortfalls during specific time windows and 
 
 3. Trip cancellations
 
+**Tools used** 
+
+1. Excel for pivot and dashboard creation
+2. SQL for querying and data exploration
+3. EDA analysis and data visualization using python
+
 **Poor distribution of cars between city and airport zones**
 
 Data Insights & Visualizations
